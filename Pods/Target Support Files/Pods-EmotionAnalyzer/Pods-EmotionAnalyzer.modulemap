@@ -1,0 +1,6 @@
+framework module Pods_EmotionAnalyzer {
+  umbrella header "Pods-EmotionAnalyzer-umbrella.h"
+
+  export *
+  module * { export * }
+}

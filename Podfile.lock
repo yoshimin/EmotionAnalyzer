@@ -1,0 +1,25 @@
+PODS:
+  - APIKit (3.1.0):
+    - Result (~> 3.0)
+  - Himotoki (3.0.0)
+  - Result (3.1.0)
+  - RxCocoa (3.0.1):
+    - RxSwift (~> 3.0)
+  - RxSwift (3.0.1)
+
+DEPENDENCIES:
+  - APIKit (~> 3.0)
+  - Himotoki (~> 3.0.0)
+  - RxCocoa (~> 3.0)
+  - RxSwift (~> 3.0)
+
+SPEC CHECKSUMS:
+  APIKit: e9fddf34a1b2786e7c8d9079c9df6ef278749b23
+  Himotoki: df74b01035e86e021b7b04a15b033a7fd189b84f
+  Result: 4e3ed5995ed94d0cd6a09be9a431fce3f3624bbf
+  RxCocoa: 15a52fc590dcc700cb4a690a633b5c5184ce3a78
+  RxSwift: af5680055c4ad04480189c52d28385b1029493a6
+
+PODFILE CHECKSUM: 3400c7012d0240c90f900dfcec9dd6a4ce68c170
+
+COCOAPODS: 1.1.1
